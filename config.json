@@ -1,9 +1,3 @@
-    {"emp_details":[
-             {"name": "a",
-              "id": "123"
-             },
-             {"name":"b",
-              "id":"345"
-             }
-    ]
-    }
+{
+  "Name": "Valera"
+}
